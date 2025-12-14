@@ -76,10 +76,11 @@ All required datasets are stored locally in the `/data` folder.
 ## Repository Structure
 Tennis_Analytics/
 ├── data/
-├── notebooks/
 ├── figures/
+├── notebooks/
+├── project_notes/
 ├── reports/
-|── README.md
+└── README.md
 
 ---
 
