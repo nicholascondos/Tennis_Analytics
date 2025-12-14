@@ -1,4 +1,4 @@
-# Project Notes – Tennis Analytics Final Project
+# Project Notes (Tennis_Analytics)
 
 
 ## Repository Purpose
