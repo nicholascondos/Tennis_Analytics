@@ -60,7 +60,16 @@ The project was developed iteratively across multiple checkpoints:
 - Serve–return efficiency is the strongest predictor of match outcomes  
 - First-serve return percentage provides significant explanatory power beyond serving metrics  
 - Break-point performance improves prediction in high-pressure situations  
-- The final model achieved **0.882 accuracy** while remaining interpretable  
+- The final model achieved **0.882 accuracy** while remaining interpretable
+- ### Final Model (Model 3 – Logistic Regression)
+
+- Accuracy: approximately **0.88**
+- Balanced precision and recall across winners and losers
+- Model remains fully interpretable via coefficients
+
+![Model 3 Coefficients – Logistic Regression](figures/BarChartModel3.png)
+
+**One-line takeaway:** Serve–return efficiency and first-serve return percentage are the strongest predictors of match outcomes, with break-point save percentage providing additional explanatory power.
 
 ---
 
